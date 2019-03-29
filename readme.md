@@ -12,4 +12,6 @@ Also it has as example the situation when one needs to ad a "Back to category" l
 ![Add back to category link to product page](/app/code/Atwix/RegistryAlternative/view/frontend/web/images/back-to-category.jpg "Back to category link on product page")
 
 The module is part of a post on [Atwix's blog](https://www.atwix.com/development/alternatives-for-deprecated-registry-class-magento-2-3).
-Check it out and read the full story of the module.
+Check it out and read the full story of the module
+### 原文連結
+  * [傳送門](https://www.atwix.com/magento-2/alternatives-for-deprecated-registry-class-magento-2-3/)
